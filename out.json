@@ -1,0 +1,684 @@
+{
+  "value": "root",
+  "label": "root",
+  "children": [
+    {
+      "value": "Animals & Pet Supplies",
+      "label": "Animals & Pet Supplies",
+      "children": [
+        {
+          "value": "Live Animals",
+          "label": "Live Animals",
+          "children": []
+        },
+        {
+          "value": "Pet Supplies",
+          "label": "Pet Supplies",
+          "children": [
+            {
+              "value": "Bird Supplies",
+              "label": "Bird Supplies",
+              "children": [
+                {
+                  "value": "Bird Cage Accessories",
+                  "label": "Bird Cage Accessories",
+                  "children": [
+                    {
+                      "value": "Bird Cage Bird Baths",
+                      "label": "Bird Cage Bird Baths",
+                      "children": []
+                    },
+                    {
+                      "value": "Bird Cage Food & Water Dishes",
+                      "label": "Bird Cage Food & Water Dishes",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "value": "Bird Cages & Stands",
+                  "label": "Bird Cages & Stands",
+                  "children": []
+                },
+                {
+                  "value": "Bird Food",
+                  "label": "Bird Food",
+                  "children": []
+                },
+                {
+                  "value": "Bird Gyms & Playstands",
+                  "label": "Bird Gyms & Playstands",
+                  "children": []
+                },
+                {
+                  "value": "Bird Ladders & Perches",
+                  "label": "Bird Ladders & Perches",
+                  "children": []
+                },
+                {
+                  "value": "Bird Toys",
+                  "label": "Bird Toys",
+                  "children": []
+                },
+                {
+                  "value": "Bird Treats",
+                  "label": "Bird Treats",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Cat Supplies",
+              "label": "Cat Supplies",
+              "children": [
+                {
+                  "value": "Cat Apparel",
+                  "label": "Cat Apparel",
+                  "children": []
+                },
+                {
+                  "value": "Cat Beds",
+                  "label": "Cat Beds",
+                  "children": []
+                },
+                {
+                  "value": "Cat Food",
+                  "label": "Cat Food",
+                  "children": [
+                    {
+                      "value": "Non-prescription Cat Food",
+                      "label": "Non-prescription Cat Food",
+                      "children": []
+                    },
+                    {
+                      "value": "Prescription Cat Food",
+                      "label": "Prescription Cat Food",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "value": "Cat Furniture",
+                  "label": "Cat Furniture",
+                  "children": []
+                },
+                {
+                  "value": "Cat Furniture Accessories",
+                  "label": "Cat Furniture Accessories",
+                  "children": []
+                },
+                {
+                  "value": "Cat Litter",
+                  "label": "Cat Litter",
+                  "children": []
+                },
+                {
+                  "value": "Cat Litter Box Liners",
+                  "label": "Cat Litter Box Liners",
+                  "children": []
+                },
+                {
+                  "value": "Cat Litter Box Mats",
+                  "label": "Cat Litter Box Mats",
+                  "children": []
+                },
+                {
+                  "value": "Cat Litter Boxes",
+                  "label": "Cat Litter Boxes",
+                  "children": []
+                },
+                {
+                  "value": "Cat Toys",
+                  "label": "Cat Toys",
+                  "children": []
+                },
+                {
+                  "value": "Cat Treats",
+                  "label": "Cat Treats",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Dog Supplies",
+              "label": "Dog Supplies",
+              "children": [
+                {
+                  "value": "Dog Apparel",
+                  "label": "Dog Apparel",
+                  "children": []
+                },
+                {
+                  "value": "Dog Beds",
+                  "label": "Dog Beds",
+                  "children": []
+                },
+                {
+                  "value": "Dog Diaper Pads & Liners",
+                  "label": "Dog Diaper Pads & Liners",
+                  "children": []
+                },
+                {
+                  "value": "Dog Diapers",
+                  "label": "Dog Diapers",
+                  "children": []
+                },
+                {
+                  "value": "Dog Food",
+                  "label": "Dog Food",
+                  "children": [
+                    {
+                      "value": "Non-prescription Dog Food",
+                      "label": "Non-prescription Dog Food",
+                      "children": []
+                    },
+                    {
+                      "value": "Prescription Dog Food",
+                      "label": "Prescription Dog Food",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "value": "Dog Houses",
+                  "label": "Dog Houses",
+                  "children": []
+                },
+                {
+                  "value": "Dog Kennel & Run Accessories",
+                  "label": "Dog Kennel & Run Accessories",
+                  "children": []
+                },
+                {
+                  "value": "Dog Kennels & Runs",
+                  "label": "Dog Kennels & Runs",
+                  "children": []
+                },
+                {
+                  "value": "Dog Toys",
+                  "label": "Dog Toys",
+                  "children": []
+                },
+                {
+                  "value": "Dog Treadmills",
+                  "label": "Dog Treadmills",
+                  "children": []
+                },
+                {
+                  "value": "Dog Treats",
+                  "label": "Dog Treats",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Fish Supplies",
+              "label": "Fish Supplies",
+              "children": [
+                {
+                  "value": "Aquarium & Pond Tubing",
+                  "label": "Aquarium & Pond Tubing",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Air Stones & Diffusers",
+                  "label": "Aquarium Air Stones & Diffusers",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Cleaning Supplies",
+                  "label": "Aquarium Cleaning Supplies",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Decor",
+                  "label": "Aquarium Decor",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Filters",
+                  "label": "Aquarium Filters",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Fish Nets",
+                  "label": "Aquarium Fish Nets",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Gravel & Substrates",
+                  "label": "Aquarium Gravel & Substrates",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Lighting",
+                  "label": "Aquarium Lighting",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Overflow Boxes",
+                  "label": "Aquarium Overflow Boxes",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Stands",
+                  "label": "Aquarium Stands",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Temperature Controllers",
+                  "label": "Aquarium Temperature Controllers",
+                  "children": []
+                },
+                {
+                  "value": "Aquarium Water Treatments",
+                  "label": "Aquarium Water Treatments",
+                  "children": []
+                },
+                {
+                  "value": "Aquariums",
+                  "label": "Aquariums",
+                  "children": []
+                },
+                {
+                  "value": "Aquatic Plant Fertilizers",
+                  "label": "Aquatic Plant Fertilizers",
+                  "children": []
+                },
+                {
+                  "value": "Fish Feeders",
+                  "label": "Fish Feeders",
+                  "children": []
+                },
+                {
+                  "value": "Fish Food",
+                  "label": "Fish Food",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Pet Agility Equipment",
+              "label": "Pet Agility Equipment",
+              "children": []
+            },
+            {
+              "value": "Pet Apparel Hangers",
+              "label": "Pet Apparel Hangers",
+              "children": []
+            },
+            {
+              "value": "Pet Bed Accessories",
+              "label": "Pet Bed Accessories",
+              "children": []
+            },
+            {
+              "value": "Pet Bells & Charms",
+              "label": "Pet Bells & Charms",
+              "children": []
+            },
+            {
+              "value": "Pet Biometric Monitors",
+              "label": "Pet Biometric Monitors",
+              "children": [
+                {
+                  "value": "Pet Glucose Meters",
+                  "label": "Pet Glucose Meters",
+                  "children": []
+                },
+                {
+                  "value": "Pet Pedometers",
+                  "label": "Pet Pedometers",
+                  "children": []
+                },
+                {
+                  "value": "Pet Thermometers",
+                  "label": "Pet Thermometers",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Pet Bowl Mats",
+              "label": "Pet Bowl Mats",
+              "children": []
+            },
+            {
+              "value": "Pet Bowl Stands",
+              "label": "Pet Bowl Stands",
+              "children": []
+            },
+            {
+              "value": "Pet Bowls, Feeders & Waterers",
+              "label": "Pet Bowls, Feeders & Waterers",
+              "children": []
+            },
+            {
+              "value": "Pet Carrier & Crate Accessories",
+              "label": "Pet Carrier & Crate Accessories",
+              "children": []
+            },
+            {
+              "value": "Pet Carriers & Crates",
+              "label": "Pet Carriers & Crates",
+              "children": []
+            },
+            {
+              "value": "Pet Collars & Harnesses",
+              "label": "Pet Collars & Harnesses",
+              "children": []
+            },
+            {
+              "value": "Pet Containment Systems",
+              "label": "Pet Containment Systems",
+              "children": []
+            },
+            {
+              "value": "Pet Door Accessories",
+              "label": "Pet Door Accessories",
+              "children": []
+            },
+            {
+              "value": "Pet Doors",
+              "label": "Pet Doors",
+              "children": []
+            },
+            {
+              "value": "Pet Eye Drops & Lubricants",
+              "label": "Pet Eye Drops & Lubricants",
+              "children": []
+            },
+            {
+              "value": "Pet First Aid & Emergency Kits",
+              "label": "Pet First Aid & Emergency Kits",
+              "children": []
+            },
+            {
+              "value": "Pet Flea & Tick Control",
+              "label": "Pet Flea & Tick Control",
+              "children": []
+            },
+            {
+              "value": "Pet Food Containers",
+              "label": "Pet Food Containers",
+              "children": []
+            },
+            {
+              "value": "Pet Food Scoops",
+              "label": "Pet Food Scoops",
+              "children": []
+            },
+            {
+              "value": "Pet Grooming Supplies",
+              "label": "Pet Grooming Supplies",
+              "children": [
+                {
+                  "value": "Pet Combs & Brushes",
+                  "label": "Pet Combs & Brushes",
+                  "children": []
+                },
+                {
+                  "value": "Pet Fragrances & Deodorizing Sprays",
+                  "label": "Pet Fragrances & Deodorizing Sprays",
+                  "children": []
+                },
+                {
+                  "value": "Pet Hair Clippers & Trimmers",
+                  "label": "Pet Hair Clippers & Trimmers",
+                  "children": []
+                },
+                {
+                  "value": "Pet Hair Dryers",
+                  "label": "Pet Hair Dryers",
+                  "children": []
+                },
+                {
+                  "value": "Pet Nail Polish",
+                  "label": "Pet Nail Polish",
+                  "children": []
+                },
+                {
+                  "value": "Pet Nail Tools",
+                  "label": "Pet Nail Tools",
+                  "children": []
+                },
+                {
+                  "value": "Pet Shampoo & Conditioner",
+                  "label": "Pet Shampoo & Conditioner",
+                  "children": []
+                },
+                {
+                  "value": "Pet Wipes",
+                  "label": "Pet Wipes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Pet Heating Pad Accessories",
+              "label": "Pet Heating Pad Accessories",
+              "children": []
+            },
+            {
+              "value": "Pet Heating Pads",
+              "label": "Pet Heating Pads",
+              "children": []
+            },
+            {
+              "value": "Pet ID Tags",
+              "label": "Pet ID Tags",
+              "children": []
+            },
+            {
+              "value": "Pet Leash Extensions",
+              "label": "Pet Leash Extensions",
+              "children": []
+            },
+            {
+              "value": "Pet Leashes",
+              "label": "Pet Leashes",
+              "children": []
+            },
+            {
+              "value": "Pet Medical Collars",
+              "label": "Pet Medical Collars",
+              "children": []
+            },
+            {
+              "value": "Pet Medical Tape & Bandages",
+              "label": "Pet Medical Tape & Bandages",
+              "children": []
+            },
+            {
+              "value": "Pet Medicine",
+              "label": "Pet Medicine",
+              "children": []
+            },
+            {
+              "value": "Pet Muzzles",
+              "label": "Pet Muzzles",
+              "children": []
+            },
+            {
+              "value": "Pet Oral Care Supplies",
+              "label": "Pet Oral Care Supplies",
+              "children": []
+            },
+            {
+              "value": "Pet Playpens",
+              "label": "Pet Playpens",
+              "children": []
+            },
+            {
+              "value": "Pet Steps & Ramps",
+              "label": "Pet Steps & Ramps",
+              "children": []
+            },
+            {
+              "value": "Pet Strollers",
+              "label": "Pet Strollers",
+              "children": []
+            },
+            {
+              "value": "Pet Sunscreen",
+              "label": "Pet Sunscreen",
+              "children": []
+            },
+            {
+              "value": "Pet Training Aids",
+              "label": "Pet Training Aids",
+              "children": [
+                {
+                  "value": "Pet Training Clickers & Treat Dispensers",
+                  "label": "Pet Training Clickers & Treat Dispensers",
+                  "children": []
+                },
+                {
+                  "value": "Pet Training Pad Holders",
+                  "label": "Pet Training Pad Holders",
+                  "children": []
+                },
+                {
+                  "value": "Pet Training Pads",
+                  "label": "Pet Training Pads",
+                  "children": []
+                },
+                {
+                  "value": "Pet Training Sprays & Solutions",
+                  "label": "Pet Training Sprays & Solutions",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Pet Vitamins & Supplements",
+              "label": "Pet Vitamins & Supplements",
+              "children": []
+            },
+            {
+              "value": "Pet Waste Bag Dispensers & Holders",
+              "label": "Pet Waste Bag Dispensers & Holders",
+              "children": []
+            },
+            {
+              "value": "Pet Waste Bags",
+              "label": "Pet Waste Bags",
+              "children": []
+            },
+            {
+              "value": "Pet Waste Disposal Systems & Tools",
+              "label": "Pet Waste Disposal Systems & Tools",
+              "children": []
+            },
+            {
+              "value": "Reptile & Amphibian Supplies",
+              "label": "Reptile & Amphibian Supplies",
+              "children": [
+                {
+                  "value": "Reptile & Amphibian Food",
+                  "label": "Reptile & Amphibian Food",
+                  "children": []
+                },
+                {
+                  "value": "Reptile & Amphibian Habitat Accessories",
+                  "label": "Reptile & Amphibian Habitat Accessories",
+                  "children": []
+                },
+                {
+                  "value": "Reptile & Amphibian Habitat Heating & Lighting",
+                  "label": "Reptile & Amphibian Habitat Heating & Lighting",
+                  "children": []
+                },
+                {
+                  "value": "Reptile & Amphibian Habitats",
+                  "label": "Reptile & Amphibian Habitats",
+                  "children": []
+                },
+                {
+                  "value": "Reptile & Amphibian Substrates",
+                  "label": "Reptile & Amphibian Substrates",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Small Animal Supplies",
+              "label": "Small Animal Supplies",
+              "children": [
+                {
+                  "value": "Small Animal Bedding",
+                  "label": "Small Animal Bedding",
+                  "children": []
+                },
+                {
+                  "value": "Small Animal Food",
+                  "label": "Small Animal Food",
+                  "children": []
+                },
+                {
+                  "value": "Small Animal Habitat Accessories",
+                  "label": "Small Animal Habitat Accessories",
+                  "children": []
+                },
+                {
+                  "value": "Small Animal Habitats & Cages",
+                  "label": "Small Animal Habitats & Cages",
+                  "children": []
+                },
+                {
+                  "value": "Small Animal Treats",
+                  "label": "Small Animal Treats",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "value": "Vehicle Pet Barriers",
+              "label": "Vehicle Pet Barriers",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "Apparel & Accessories",
+      "label": "Apparel & Accessories",
+      "children": [
+        {
+          "value": "Clothing",
+          "label": "Clothing",
+          "children": [
+            {
+              "value": "Activewear",
+              "label": "Activewear",
+              "children": [
+                {
+                  "value": "American Football Pants",
+                  "label": "American Football Pants",
+                  "children": []
+                },
+                {
+                  "value": "Bicycle Activewear",
+                  "label": "Bicycle Activewear",
+                  "children": [
+                    {
+                      "value": "Bicycle Bibs",
+                      "label": "Bicycle Bibs",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "",
+      "label": "",
+      "children": []
+    }
+  ]
+}

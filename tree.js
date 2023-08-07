@@ -68,31 +68,33 @@ class Tree {
   }
 }
 
-const t = new Tree();
-const root = t.createRoot("root");
+module.exports = Tree;
 
-const aclGroup = root.append("acl-group");
-const app = root.append("app");
-const adminConfig = root.append("admin-config");
-const captcha = root.append("captcha");
+// const t = new Tree();
+// const root = t.createRoot("root");
 
-aclGroup.append("update");
-aclGroup.append("getAll");
-aclGroup.append("create");
-aclGroup.append("get");
-aclGroup.append("getRoleResource");
-aclGroup.append("delete");
+// const aclGroup = root.append("acl-group");
+// const app = root.append("app");
+// const adminConfig = root.append("admin-config");
+// const captcha = root.append("captcha");
 
-app.append("sendOtp");
-app.append("create");
-app.append("report");
-app.append("matchOtp");
-app.append("login");
+// aclGroup.append("update");
+// aclGroup.append("getAll");
+// aclGroup.append("create");
+// aclGroup.append("get");
+// aclGroup.append("getRoleResource");
+// aclGroup.append("delete");
 
-adminConfig.append("saveConfig");
-adminConfig.append("getAllConfig");
+// app.append("sendOtp");
+// app.append("create");
+// app.append("report");
+// app.append("matchOtp");
+// app.append("login");
 
-captcha.append("v2");
-captcha.append("v3");
+// adminConfig.append("saveConfig");
+// adminConfig.append("getAllConfig");
 
-console.log(JSON.stringify(t, null, 2));
+// captcha.append("v2");
+// captcha.append("v3");
+
+// console.log(JSON.stringify(t, null, 2));
