@@ -10,6 +10,10 @@ const digits = {
 function encode(num, base = 64) {
   let result = "";
 
+  if (num === 0) {
+    return 0;
+  }
+  
   while (num) {
     const rem = num % base;
     result += digits[base][rem];
