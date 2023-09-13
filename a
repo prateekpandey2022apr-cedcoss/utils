@@ -20,6 +20,10 @@
 // nodemosh
 // b1, b2
 
+// a = [{lang: "en",}, {lang: "es"} ]
+// b = [{lang_used: ["en", "es"],}, {lang_used: ["es"]}, ]
+// find used and unused lang
+
 
 
 // 1. Solution to store the github audit logs
